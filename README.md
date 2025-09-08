@@ -1,5 +1,9 @@
 # Robust Reinforcement Learning: WocaR-RL Framework
 
+<div align="center">
+  <img src="wocar.png" alt="WocaR-RL Framework" width="600"/>
+</div>
+
 A CS234 project implementing **Worst-case-aware Robust Reinforcement Learning (WocaR-RL)** for training robust policies resilient to adversarial attacks and distributional shifts.
 
 ## Overview
